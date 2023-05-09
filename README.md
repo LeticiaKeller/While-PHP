@@ -1,2 +1,5 @@
 # While-PHP
-Estudos de estrutula while em PHP
+Estudos da estrutura while em PHP
+
+Aqui disponibilizei um exercício, em breve irei disponibilizar mais conforme for evoluindo,
+espero que te ajude em seu processo de aprendizagem!
